@@ -2,3 +2,8 @@ Nome artefato: 1.01-Artefato4.txt
 Nome do(a) autor(a): Johnathan Gomes Lima
 Data de criação: 08/04/2015
 Hora de criação: 09:52:09
+
+Nome artefato: 1.01-Artefato4.txt
+Nome do(a) autor(a): Moisés Hilario Rodrigues
+Data de criação: 08/04/2015
+Hora de criação: 17:07:23

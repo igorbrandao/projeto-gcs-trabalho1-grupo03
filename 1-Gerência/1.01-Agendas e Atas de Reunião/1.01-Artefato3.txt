@@ -2,3 +2,8 @@ Nome artefato: 1.01-Artefato3.txt
 Nome do(a) autor(a): Vinicius Carvalho Machado
 Data de criação: 07/04/2015
 Hora de criação: 20:02:15
+
+Nome artefato: 1.01-Artefato3.txt
+Nome do(a) autor(a): Moisés Hilario Rodrigues
+Data de criação: 08/04/2015
+Hora de criação: 17:06:50

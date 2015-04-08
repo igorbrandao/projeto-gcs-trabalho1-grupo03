@@ -2,3 +2,8 @@ Nome artefato: 1.02-Artefato2.txt
 Nome do(a) autor(a): Igor Moura Brandão
 Data de criação: 07/04/2015
 Hora de criação: 20:47:30
+
+Nome artefato: 1.02-Artefato2.txt
+Nome do(a) autor(a): Moisés Hilario Rodrigues
+Data de criação: 08/04/2015
+Hora de criação: 17:03:30
