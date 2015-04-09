@@ -1,0 +1,5 @@
+Nome artefato: 2.02-Artefato6.txt
+Nome do(a) autor(a): Igor Moura Brandão
+Data de criação: 09/04/2015
+Hora de criação: 00:08:27
+Documento criado no ramo2

@@ -1,4 +1,7 @@
 Nome artefato: 2.02-Artefato2.txt
+Nova Linha de Conteúdo.
 Nome do(a) autor(a): Igor Moura Brandão
-Data de criação: 08/04/2015
-Hora de criação: 19:30:40
+Data de criação: 09/04/2015
+Hora de criação: 00:06:56
+Linha de Conteúdo Final do Arquivo.
+
