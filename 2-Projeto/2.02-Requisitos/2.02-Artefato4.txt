@@ -1,4 +1,7 @@
 Nome artefato: 2.02-Artefato4.txt 
 Nome do(a) autor(a): Johnathan Gomes Lima
-Data de cria��o: 08/04/2015
-Hora de cria��o: 20:03:54
+Backup Data de criação: 08/04/2015
+Data de edição: 12/04/2015
+Hora de criação: 20:03:54
+Hora de edição: 22:09:53
+Nova linha de conteúdo master.
