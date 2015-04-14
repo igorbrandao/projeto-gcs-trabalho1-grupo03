@@ -1,5 +1,14 @@
+[COMMIT DA MASTER]
 Nome artefato: 2.02-Artefato7.txt 
 Nome do(a) autor(a): Vinicius Carvalho Machado
 Data de criação: 12/04/2015
 Hora de criação: 22:33:40
 Documento criado no master
+
+[COMMIT DO RAMO2]
+Nome artefato: 2.02-Artefato7.txt 
+Nome do(a) autor(a): Vinicius Carvalho Machado
+Data de criação: 12/04/2015
+Hora de criação: 22:22:40
+Documento criado no ramo2
+

@@ -1,5 +1,14 @@
+[COMMIT DA MASTER]
 Nome artefato: 2.02-Artefato8.txt
 Nome do(a) autor(a): Johnathan Gomes Lima
 Data de criação: 12/04/2015
 Hora de criação: 21:59:21
 Documento criado no master
+
+[COMMIT DO RAMO2]
+Nome artefato: 2.02-Artefato8.txt
+Nome do(a) autor(a): Johnathan Gomes Lima
+Data de criação: 12/04/2015
+Hora de criação: 21:59:21
+Nova linha de conteúdo no ramo 2.
+

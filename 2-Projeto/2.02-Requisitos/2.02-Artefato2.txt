@@ -1,5 +1,19 @@
 Nome artefato: 2.02-Artefato2.txt
+Nova Linha de Conteúdo.
 Nome do(a) autor(a): Igor Moura Brandão
+
+[ÚLTIMO COMMIT DA MASTER]
 Data de criação: 09/04/2015
 Hora de criação: 00:12:08
 Nova linha de conteúdo master.
+
+[COMMIT DE ORIGEM]
+Data de criação: 08/04/2015
+Hora de criação: 19:30:40
+
+[COMMIT DO RAMO2]
+Data de criação: 09/04/2015
+Hora de criação: 00:06:56
+Linha de Conteúdo Final do Arquivo.
+
+

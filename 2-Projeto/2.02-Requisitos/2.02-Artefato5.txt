@@ -1,6 +1,15 @@
+[COMMIT DA MASTER]
 Nome artefato: 2.02-Artefato5.txt
 Nome do(a) autor(a): Moisés Hilario Rodrigues
 Data de criação: 13/04/2015
 Hora de criação: 15:50:45
 documento criado no trunk
+
+
+[COMMIT DO RAMO2]
+Nome artefato: 2.02-Artefato5.txt
+Nome do(a) autor(a): Moisés Hilario Rodrigues
+Data de criação: 13/04/2015
+Hora de criação: 15:41:27
+Documento criado no ramo2
 

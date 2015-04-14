@@ -1,5 +1,13 @@
 Nome artefato: 2.02-Artefato1.txt
+NOVA LINHA DE CONTEÚDO
 Nome do(a) autor(a): Moisés Hilario Rodrigues
-Data de criação: 08/04/2015
+Data de criação: 08/04/2015 - Data da modificação: 13/04/2015
 Hora de criação: 20:05:50
+
+[COMMIT NA MASTER]
 Nova linha de conteúdo no final do documento
+
+[COMMIT DO RAMO2]
+Linha no final do arquivo
+
+

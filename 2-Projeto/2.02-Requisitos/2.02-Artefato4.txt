@@ -1,7 +1,21 @@
 Nome artefato: 2.02-Artefato4.txt 
 Nome do(a) autor(a): Johnathan Gomes Lima
+
+[COMMIT DA MASTER]
 Backup Data de criação: 08/04/2015
 Data de edição: 12/04/2015
 Hora de criação: 20:03:54
 Hora de edição: 22:09:53
 Nova linha de conteúdo master.
+
+[COMMIT DE ORIGEM]
+Data de cria��o: 08/04/2015
+Hora de cria��o: 20:03:54
+
+[COMMIT DO RAMO2]
+Data de criação: 08/04/2015
+Backup Hora da criação: 20:03:54
+Nova linha de conteúdo no ramo 2.
+Hora da edição: 21:47:44
+Nova linha de conteúdo no ramo 2.
+
